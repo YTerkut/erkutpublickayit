@@ -1,18 +1,18 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
-        "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "token": "OTYzOTA4MDI1MTg0MzA5MjQ4.Ylc7TQ.uefl0FMSOJjGBS_lsIWeX8eIuLA",
+        "owner": "599276243350847797",
+        "prefix": ".",
+        "botStatus": "Nischoria <3",
+        "botVoiceChannelID": "963911401154437231"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
-        "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
-        "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
+        "BoyRole1": "963881966611075093",
+        "BoyRole2": "963911480837820496",
+        "GirlRole1": "963883710720131142",
+        "GirlRole2": "963911480837820496",
+        "Unregister": "963894747011874826",
+        "Registerer": "963881757525016677",
         "TagRole": "TAG ROL",
         "Suspicious": "ŞÜPHELİ ROL",
         "Jail": "JAİL ROL"
@@ -27,19 +27,19 @@
             "Yellow": "ffff00"
     },
         "ServerSettings": {
-            "ServerName": "SUNUCU ADI",
-            "ServerID": "SERVER ID",
-            "Tag": "TAG",
+            "ServerName": "ꋊ  𝙽𝚒𝚜𝚌𝚑𝚘𝚛𝚒𝚊 (𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐)",
+            "ServerID": "963876095092998204",
+            "Tag": "ꋊ",
             "UnTag": "UNTAG"
     },
         "Channels": {
-            "RegisterChat": "KAYIT CHAT",
-            "TagLog": "TAG LOG",
-            "Rules": "KURALLAR CHAT",
-            "GeneralChat": "GENEL CHAT"
+            "RegisterChat": "𝚁𝚎𝚐𝚒𝚜𝚝𝚎𝚛-𝙲𝚑𝚊𝚝",
+            "TagLog": "𝚖𝚘𝚍-𝚕𝚘𝚐",
+            "Rules": "𝚁𝚞𝚕𝚎𝚜",
+            "GeneralChat": "𝙲𝚑𝚊𝚝"
         },
         "Welcome": {
-            "WelcomeChat": "HOŞGELDİN CHAT",
+            "WelcomeChat": "𝚁𝚎𝚐𝚒𝚜𝚝𝚎𝚛-𝙲𝚑𝚊𝚝",
             "WelcomeName": "• İsim | Yaş"
         }
 }
